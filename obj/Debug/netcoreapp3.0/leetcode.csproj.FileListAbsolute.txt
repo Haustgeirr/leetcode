@@ -1,0 +1,11 @@
+/Users/haustgeirr/code/leetcode/obj/Debug/netcoreapp3.0/leetcode.csprojAssemblyReference.cache
+/Users/haustgeirr/code/leetcode/obj/Debug/netcoreapp3.0/leetcode.AssemblyInfoInputs.cache
+/Users/haustgeirr/code/leetcode/obj/Debug/netcoreapp3.0/leetcode.AssemblyInfo.cs
+/Users/haustgeirr/code/leetcode/bin/Debug/netcoreapp3.0/leetcode
+/Users/haustgeirr/code/leetcode/bin/Debug/netcoreapp3.0/leetcode.deps.json
+/Users/haustgeirr/code/leetcode/bin/Debug/netcoreapp3.0/leetcode.runtimeconfig.json
+/Users/haustgeirr/code/leetcode/bin/Debug/netcoreapp3.0/leetcode.runtimeconfig.dev.json
+/Users/haustgeirr/code/leetcode/bin/Debug/netcoreapp3.0/leetcode.dll
+/Users/haustgeirr/code/leetcode/bin/Debug/netcoreapp3.0/leetcode.pdb
+/Users/haustgeirr/code/leetcode/obj/Debug/netcoreapp3.0/leetcode.dll
+/Users/haustgeirr/code/leetcode/obj/Debug/netcoreapp3.0/leetcode.pdb
